@@ -36,6 +36,3 @@ This repository contains beginner-friendly Java programs using the Java Collecti
 
 Java
 
-## Language
-
-Java
